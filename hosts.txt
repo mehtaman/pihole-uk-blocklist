@@ -1,0 +1,11 @@
+cdn.http.anno.channel4.com
+webstats.channel4.com
+monitor.channel4.com
+cdn.ss.anno.channel4.com
+c4ads.2cnt.net
+tom.itv.com
+itv-ads.aimatch.com
+2356e.v.fwmrm.net
+bilsyndication.com
+static.vliplatform.com
+toots-a.akamaihd.net 
